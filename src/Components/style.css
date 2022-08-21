@@ -1,0 +1,19 @@
+.App{
+    text-align: center;
+  }
+  
+.navbar{
+    background: black;
+}
+.navbar .navs{
+    color: white;
+    transition: 0.5s;
+    border-radius: 15px;
+   
+
+}
+.navbar .active {
+   background-color: white;
+ 
+  
+}
