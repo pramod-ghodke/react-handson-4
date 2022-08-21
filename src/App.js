@@ -1,10 +1,11 @@
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import './Components/style.css';
+
 import Contact from './Components/Contact';
 import Home from './Components/Home';
 import Navs from './Components/Navs';
 import Student from './Components/Student';
+import './Components/style.css';
 
 
 
